@@ -1,20 +1,25 @@
-<item>
-<title>[COLOR white][B] FILMES DE ÉPICOS EM TORRENT [/B][/COLOR]</title>
-<thumbnail>https://i.ibb.co/PM7YH8f/ÉPICOS.png</thumbnail>
+<channels>
+<channel>
+<name>[COLOR white][B] FILMES DE ÉPICOS EM TORRENT [/B][/COLOR]</name>
+<externallink>https://</externallink>
+<thumbnail>https://i.ibb.co/PtRJ3jq/epicos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE ÉPICOS ESTÃO AQUI</info>
 <genre>ÉPICOS</genre>
- </item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR white][B] COLEÇÕES DE FILMES DE ÉPICOS [/B][/COLOR]</title>
-<thumbnail>https://i.ibb.co/VWPYPbh/ÉPICOS.png</thumbnail>
+<channels>
+<channel>
+<name>[COLOR white][B] COLEÇÃO DE FILMES DE ÉPICOS EM TORRENT [/B][/COLOR]</name>
+<externallink>https://</externallink>
+<thumbnail>https://i.ibb.co/PtRJ3jq/epicos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>AS MELHORES SEQUÊNCIAS DE FILMES DE ÉPICOS ESTÃO AQUI</info>
 <genre>ÉPICOS</genre>
- </item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
