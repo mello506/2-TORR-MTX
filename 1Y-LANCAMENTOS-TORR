@@ -1,26 +1,12 @@
-<channels>
-<channel>
-<name>[COLOR white][B]DICAS DE NAVEGAÇÃO 2[/B][/COLOR]</name>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/8gLxcnv/informativolinks.png</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>[COLOR white]COR BRANCA - LINK ON LINE[/COLOR] - [COLOR orange]COR LARANJA - SEM LINK[/COLOR]
-[COLOR red]COR VERMELHA - LINK OFF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF LINE[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
 <title>[COLOR orange][B] FILMES EM LANÇAMENTOS [/B][/COLOR]</title>
-<thumbnail>https://i.ibb.co/tYgbxxG/Filmes.png</thumbnail>
+<thumbnail>https://i.ibb.co/gwDwqtp/lancamentos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>OS MELHORES FILMES DE GENERO ESTÃO AQUI</info>
-<genre>GENERO</genre>
+<info>OS MELHORES FILMES EM LANÇAMENTOS ESTÃO AQUI</info>
+<genre>LANÇAMENTOS</genre>
  </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
 <title>[COLOR white][B][/COLOR][COLOR white] Monster Hunter [/B][/COLOR]</title>
 
