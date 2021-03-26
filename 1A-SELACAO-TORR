@@ -1,19 +1,25 @@
-<item>
-<title>[COLOR white][B] FILMES DE AÇÃO EM TORRENT [/B][/COLOR]</title>
-<thumbnail>https://i.ibb.co/jLJF9fB/acao.png</thumbnail>
+<channels>
+<channel>
+<name>[COLOR white][B] FILMES DE AÇÃO EM TORRENT [/B][/COLOR]</name>
+<externallink>https://</externallink>
+<thumbnail>https://i.ibb.co/PtRJ3jq/epicos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE AÇÃO ESTÃO AQUI</info>
 <genre>AÇÃO</genre>
- </item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR white][B] COLEÇÃO DE FILMES DE AÇÃO EM TORRENT [/B][/COLOR]</title>
-<thumbnail>https://i.ibb.co/jLJF9fB/acao.png</thumbnail>
+<channels>
+<channel>
+<name>[COLOR white][B] COLEÇÃO DE FILMES DE AÇÃO EM TORRENT [/B][/COLOR]</name>
+<externallink>https://</externallink>
+<thumbnail>https://i.ibb.co/PtRJ3jq/epicos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>AS MELHORES SEQUÊNCIAS DE FILMES DE AÇÃO ESTÃO AQUI</info>
 <genre>AÇÃO</genre>
- </item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
