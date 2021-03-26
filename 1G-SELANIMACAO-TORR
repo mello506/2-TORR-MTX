@@ -1,20 +1,25 @@
-<item>
-<title>[COLOR white][B] FILMES DE ANIMAÇÃO EM TORRENT [/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white][B] FILMES DE ANIMAÇÃO EM TORRENT [/B][/COLOR]</name>
+<externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/dbfPqQz/animacao.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE ANIMAÇÃO ESTÃO AQUI</info>
 <genre>ANIMAÇÃO</genre>
- </item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR white][B] COLEÇÃO DE FILMES DE ANIMAÇÃO EM TORRENT [/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white][B] COLEÇÃO DE FILMES DE ANIMAÇÃO EM TORRENT [/B][/COLOR]</name>
+<externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/dbfPqQz/animacao.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>AS MELHORES SEQUÊNCIAS DE FILMES DE ANIMAÇÃO ESTÃO AQUI</info>
 <genre>ANIMAÇÃO</genre>
- </item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
