@@ -1,20 +1,25 @@
-<item>
-<title>[COLOR white][B] FILMES DE COMÉDIA EM TORRENT [/B][/COLOR]</title>
-<thumbnail>https://i.ibb.co/wsnsjsT/comedia.png</thumbnail>
+<channels>
+<channel>
+<name>[COLOR white][B] FILMES DE COMÉDIA EM TORRENT [/B][/COLOR]</name>
+<externallink>https://</externallink>
+<thumbnail>https://i.ibb.co/020mmhf/COMÉDIA.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE COMÉDIA ESTÃO AQUI</info>
 <genre>COMÉDIA</genre>
- </item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR white][B] COLEÇÃO DE FILMES DE COMÉDIA EM TORRENT [/B][/COLOR]</title>
-<thumbnail>https://i.ibb.co/wsnsjsT/comedia.png</thumbnail>
+<channels>
+<channel>
+<name>[COLOR white][B] COLEÇÃO DE FILMES DE COMÉDIA EM TORRENT [/B][/COLOR]</name>
+<externallink>https://</externallink>
+<thumbnail>https://i.ibb.co/020mmhf/COMÉDIA.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>AS MELHORES SEQUÊNCIAS DE FILMES DE COMÉDIA ESTÃO AQUI</info>
 <genre>COMÉDIA</genre>
- </item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
