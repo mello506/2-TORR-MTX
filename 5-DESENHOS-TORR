@@ -21,3 +21,17 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$nome=[COLOR oran
 <genre>DESENHOS</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B] As Aventuras de Tintin - 1991 [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0n5Jy_2hCro$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B] As Aventuras de Tintin[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98fafed926652ff38cd61208ea9ad330b04c9cf5&dn=As+Aventuras+de+Tintin+Completo+720p+-+FZ&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$nome=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B] As Aventuras de Tintin - 1991 - DUB [/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B] As Aventuras de Tintin - 1991 - DUB [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ehcX3cEnNGo1m7lbRATy9tutPbb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/512x7nLFVWFnBtb1HFm9jYcCj7x.jpg</fanart>
+<info>"As Aventuras de Tintim" é uma série de banda desenhada franco-belga As Aventuras de Tintim, criada por Hergé. Estreou em 1991, teve 39 episódios divididos em três temporadas.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
