@@ -1,3 +1,4 @@
+ines (490 sloc) 76.4 KB
 <item>		
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
 <link>NOLINK</link>		
@@ -8,4 +9,20 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 
+<item>
+<title>[COLOR white][B]Lupin - T01 - 2021 - Dublado[/B][/COLOR]</title>
 
+<link>plugin://plugin.video.youtube/play/?video_id=FoiQ-Xr8NDI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Lupin[/B][/COLOR]</link>
+
+<link>https://workstation.canais.ink/RCServer15/ondemand/LPNT01EP01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Episodio 01[/B][/COLOR]</link>
+<link>https://workstation.canais.ink/RCServer15/ondemand/LPNT01EP02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Episodio 02[/B][/COLOR]</link>
+<link>https://workstation.canais.ink/RCServer15/ondemand/LPNT01EP03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Episodio 03[/B][/COLOR]</link>
+<link>https://workstation.canais.ink/RCServer15/ondemand/LPNT01EP04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Episodio 04[/B][/COLOR]</link>
+<link>https://workstation.canais.ink/RCServer15/ondemand/LPNT01EP05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Episodio 05[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lbWUCXIeoVXowAtLlAVR3aeHjkT.jpg</fanart>
+<info>Inspirado pelas aventuras de Arsène Lupin, o ladrão gentil Assane Diop quer se vingar de uma família rica por uma injustiça cometida contra o pai dele.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
