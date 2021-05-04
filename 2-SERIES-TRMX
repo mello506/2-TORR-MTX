@@ -256,8 +256,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]The Tudors - 2007 [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=qTiL8pgNqhs&t=25s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDASERIE[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:534F300CCF7883534224367DB9297C9D5B9C49CE&dn=The.Tudors.1.Temp.Dual.WWW.TORRENTDOSFILMES.COM$nome=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]NOMEDASERIE - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=qTiL8pgNqhs&t=25s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]The Tudors[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:534F300CCF7883534224367DB9297C9D5B9C49CE&dn=The.Tudors.1.Temp.Dual.WWW.TORRENTDOSFILMES.COM$nome=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]The Tudors - DUB [/B][/COLOR]</link>
 
 link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDASERIE - DUB [/B][/COLOR]</link>
 
@@ -267,3 +267,4 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$nome=[COLOR oran
 <genre>GENERO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
