@@ -1,18 +1,30 @@
 <item>
 <title>[COLOR white][B]Luca - 2021[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.youtube/play/?video_id=YdAIBlPVe9s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Luca [/B][/COLOR]</link>
 
 link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT720>$nome=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]Luca - DUB [/B][/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e88d7e02bf184aab8760055ee01b2c64166ac5f7&dn=Luca.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Luca - DUB [/B][/COLOR]</link>
-
-<link>http://b5.vc:80/movie/Pierri/102030/111459.mp4$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Luca - DUB [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lk7QISmTam2iOzzUAQYs6voeFg.jpg</thumbnail>
-@@ -38,6 +36,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>http://b5.vc:80/movie/gislene/102030/111459.mp4$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Luca - DUB [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jPa6SlUYxPFMVZlEuceiPPAA15.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8Btrv14JLHW1KhAxtF9NpHDs1yn.jpg</fanart>
+<info>Ambientado na bela Riviera Italiana, este longa-metragem da Disney e da Pixar acompanha as aventuras do garoto Luca durante um verão inesquecível repleto de macarronadas, gelatos e passeios incríveis de motoneta ao lado de seu novo amigo Alberto. Mas um grande segredo ameaça colocar fim à diversão: abaixo da superfície da água, eles são monstros marinhos!</info>
+<genre>ANIMAÇÃO</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B] Reino do Superman (2019) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HlC7veaQizk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Reino do Superman[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A68B655FA37925B5346A907E2905A26C1908FB94$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Reino do Superman - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u4rWHJLzM8CrsdtcTOLGY58ef4j.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8Btrv14JLHW1KhAxtF9NpHDs1yn.jpg</fanart>
+<info>Adaptando a história lendária da batalha fatal do Superman com o Apocalypse, esse será o segundo filme original do DC Universe à adaptar o material. O primeiro – de 2007 – Superman: Doomsday, foi muito condensado e trouxe o evento dos quadrinhos para dentro de 75 minutos de duração. A próxima adaptação será mais fiel ao material de origem, muito menos condensada e incluirá muitos dos momentos de fãs da história que foram deixados de fora do Apocalypse.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B][COLOR white] Mulher-Maravilha - Linhagem de Sangue (2019)[/COLOR][/B]</title>
