@@ -17,11 +17,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d2314942b31139f84abdcef080870b6425ae7da$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - FHD DUAL[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$nome=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
+link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$nome=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
+link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
+link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wTS3dS2DJiMFFgqKDz5fxMTri.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg</fanart>
