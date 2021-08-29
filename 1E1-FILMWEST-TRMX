@@ -33,6 +33,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR white][B]O Caminho do Guerreiro (2010)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=OochH-1Y95M $nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Caminho do Guerreiro[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e70a8a54950ac10c8c597319121672a524810118 $nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:691222b7b716db38001ba943f949bb3163579c53 $nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE> $nome=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL> $nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL> $nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro - DUB[/B][/COLOR]</link>
+
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gFB9jjKPuGWBUVmIcRHtMQZglin.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6FhmSHAmSjm5FGpLe2xqAl7ekFP.jpg</fanart>
+<info>Na trama, um assassino oriental é forçado a fugir de seu país em direção à América, onde se esconde no oeste dos Estados Unidos. Mas as forças que o perseguiam não tardam a surgir no novo continente.</info>
+<genre>AVENTURA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[COLOR white][B]Os Jovens Pistoleiros - 1988[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=sr0cBp9s7c4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Os Jovens Pistoleiros [/B][/COLOR]</link>
 
